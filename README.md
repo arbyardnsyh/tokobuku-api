@@ -70,4 +70,4 @@ Hasil di Postman
 
 3.Uji API Secara Publik:
 
-![](images/gambar15.png)
+![](images/gambar16.png)
